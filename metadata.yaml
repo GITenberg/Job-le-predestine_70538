@@ -1,5 +1,8 @@
 _repo: Job-le-predestine_70538
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70538-h/images/cover.jpg
 creator:
   author:
     agent_name: Baumann, Emile
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/%C3%89mile_Baumann
     - https://fr.wikipedia.org/wiki/%C3%89mile_Baumann_(%C3%A9crivain)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70538#Job-le-predestine
 gutenberg_issued: '2023-04-13'
 identifiers:
   gutenberg: '70538'
